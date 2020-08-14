@@ -1,5 +1,5 @@
 
-# Module 3 -  Northwind Sales
+# Northwind Sales
 
 ## Introduction
 
