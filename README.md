@@ -17,3 +17,6 @@ This project is looking at the Northwind company's data and utilizing hypothesis
 * Jupyter Notebook
 * Presentation with recommendations for Northwind
 * The original database in sqlite format
+
+## Blog
+Here is the link to the blog I wrote while completing this project: https://roweyerboat.github.io/fun_with_multicomparisons
