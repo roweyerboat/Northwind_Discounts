@@ -12,6 +12,9 @@ This project is looking at the Northwind company's data and utilizing hypothesis
 * Do different regions generate more revenue?  Are discounts a factor of that?
 * Do different offices generate more revenue for the company?
 
+## Data Used
+The data from this project is provided by Microsoft. The mapping of the database is pictured below:
+![Northwind database map](https://github.com/roweyerboat/Northwind_Discounts/blob/master/images/Northwind_ERD_updated.png)
 
 ## Files included in the Repo
 * Jupyter Notebook
