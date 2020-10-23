@@ -23,3 +23,6 @@ The data from this project is provided by Microsoft. The mapping of the database
 
 ## Blog
 Here is the link to the blog I wrote while completing this project: https://roweyerboat.github.io/fun_with_multicomparisons
+
+## Contact Info
+[LinkedIn](https://www.linkedin.com/in/amanda-rowe-data/)
